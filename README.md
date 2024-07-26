@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on machine learning and python [Real-Time Face Detection For Improved Surveillance and Access Control](https://github.com/Pro-Vishnu/Project-college)
 
-- 👨‍💻 All of my projects are available at [https://provishnu.netlify.app/](https://provishnu.netlify.app/)
+- My Portfolio [https://provishnu.netlify.app/](https://provishnu.netlify.app/)
+
+- 📫 How to reach me **pro.vishnu.about@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/107CwCmiP6py7xEYcqIwyBMtNlBNM4hz2/view?usp=sharing](https://drive.google.com/file/d/107CwCmiP6py7xEYcqIwyBMtNlBNM4hz2/view?usp=sharing)
 
